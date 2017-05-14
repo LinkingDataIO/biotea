@@ -1,1 +1,2 @@
 Readme for Biotea this is for the website. 
+The World Wide Web has become a dissemination platform for scientific and non-scientific publications. However, most of the information remains locked up in discrete documents that are not always interconnected or machine-readable. The connectivity tissue provided by RDF technology has not yet been widely used to support the generation of self-describing, machine-readable documents.
