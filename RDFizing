@@ -1,3 +1,4 @@
 We define RDFize as a verb, meaning (i) to generate an RDF representation of something that was originally in a different format and 
 (ii) to convert or transform to RDF
 in order to run the RDFizing process you will need:
+java -jar biotea_rdfization.jar -in ./pmc_nxml -out ./pmc_rdf -extension -onto AO -format XML -annotator ncbo -ontlyTA false 
