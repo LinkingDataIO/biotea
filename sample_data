@@ -2,3 +2,5 @@ Once you have your RDFication and annotation enviroment ready you are welcome to
 are also including the corresponding outputs. 
 Input data for https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903882/ is here 
 Output files are here
+
+The RDF and the corresponding annotations for the whole content of PLOS is available here
